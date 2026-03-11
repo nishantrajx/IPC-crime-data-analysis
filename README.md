@@ -107,6 +107,8 @@ Examined trends for:
 
 Results showed that **violent crimes remained relatively stable between 2017–2022**, with minor fluctuations.
 
+![Year-wise Crime Trend](images/crime_trend.png)
+
 ---
 
 ### 2️⃣ Top Districts with Highest Crimes
@@ -125,6 +127,8 @@ Districts with highest crime totals:
 * Surat
 
 These are **major metropolitan districts** with high population density.
+
+![Top Districts](images/top_districts.png)
 
 ---
 
@@ -145,6 +149,8 @@ States with highest crime totals include:
 
 These states contain **large urban populations**.
 
+![Top States](images/top_states.png)
+
 ---
 
 ### 4️⃣ State-wise Crime Heatmap
@@ -152,6 +158,8 @@ These states contain **large urban populations**.
 A heatmap was used to compare crime levels across states.
 
 It revealed **uneven crime distribution across India**.
+
+![Crime Heatmap](images/heatmap.png)
 
 ---
 
@@ -173,11 +181,15 @@ A correlation matrix was used to examine relationships between crime types.
 
 Results showed **moderate correlations between some crime categories**.
 
+![Correlation Matrix](images/correlation.png)
+
 ---
 
 ### 7️⃣ Crime Distribution Analysis
 
 Histogram and pie chart visualizations were used to examine crime distribution.
+
+![Murder Distribution](images/murder_distribution.png)
 
 Key observations:
 
@@ -253,7 +265,6 @@ Possible improvements include:
 **Nishant**
 
 B.Tech Computer Science and Engineering
-(Data Science Minor)
 
 Lovely Professional University
 
@@ -265,15 +276,6 @@ This project is intended for **educational and research purposes**.
 
 ---
 
-### Important Tip
-
-After uploading README:
-
-Add **graph screenshots** inside an `images` folder and include them like this:
-
-```
-![Crime Trend](images/crime_trend.png)
-```
 
 This makes the repo look **10× better**.
 
